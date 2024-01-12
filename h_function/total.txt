@@ -1,0 +1,6 @@
+함수
+default args
+area: 전역변수, 지역변수
+CRUD
+lambda: 일회성, 이름이 없다
+(= map, filter)
